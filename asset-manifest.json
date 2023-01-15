@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/OrthomagicReactBuild/static/css/main.33e6853d.css",
+    "main.js": "/OrthomagicReactBuild/static/js/main.a7fd78ba.js",
+    "static/media/background.jpg": "/OrthomagicReactBuild/static/media/background.d40b5e85283a08233cdc.jpg",
+    "static/media/sefo.png": "/OrthomagicReactBuild/static/media/sefo.16112919266a9554c90d.png",
+    "static/media/pano.jpg": "/OrthomagicReactBuild/static/media/pano.3bc58a1d99029bad34da.jpg",
+    "static/media/a.jpg": "/OrthomagicReactBuild/static/media/a.ca05259e87a11cd3188c.jpg",
+    "index.html": "/OrthomagicReactBuild/index.html",
+    "main.33e6853d.css.map": "/OrthomagicReactBuild/static/css/main.33e6853d.css.map",
+    "main.a7fd78ba.js.map": "/OrthomagicReactBuild/static/js/main.a7fd78ba.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.33e6853d.css",
+    "static/js/main.a7fd78ba.js"
+  ]
+}
